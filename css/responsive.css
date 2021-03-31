@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+
+
+.c-tabs .c-tab--navigation{
+	margin-left: 0px;
+	text-align: center;
+}
+
+}
